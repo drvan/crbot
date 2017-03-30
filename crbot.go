@@ -11,6 +11,8 @@ import (
 	redis "gopkg.in/redis.v5"
 )
 
+// some change
+
 ///////////////////////////////////////////////////////////////////////////////
 // CRBot is a call-and-response bot. It is taught by users to learn a call and
 // response. When it sees the call, it replays the response. Look at the ?help
